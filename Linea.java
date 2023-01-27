@@ -1,5 +1,3 @@
-
-
 public class Linea extends Telefono{
 
     int num;
